@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1556270016 source:c:\users\makar\onedrive\Рабочий стол\tree calc 2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<iomanip>
+
+1556623206 source:c:\users\makar\onedrive\Рабочий стол\СДАТЬ\tree calc 2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<iomanip>
+
+1590322114 source:c:\users\user\desktop\inf\task 6\main.cpp
+	<iostream>
+	<string.h>
+	<iomanip>
+	<fstream>
+
